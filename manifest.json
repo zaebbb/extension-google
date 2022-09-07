@@ -1,0 +1,12 @@
+{
+    "name": "Сокращение ссылок",
+    "version": "1.0.0",
+    "description": "Приложение с помощью API получает ссылку которую вы ввели и далее генерирует укороченную ссылку с возможностью копирования полученной ссылки",
+    "manifest_version": 3,
+    "author": "DEV PROGER",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Сокращение ссылок",
+        "default_icon": "favicon.png"
+    }
+}
